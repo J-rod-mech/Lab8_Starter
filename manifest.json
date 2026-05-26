@@ -2,7 +2,7 @@
     "name": "Lab8_Starter",
     "short_name": "Jason",
     "description": "mm mm it is time to get thankful",
-    "start_url": "./Lab8_Starter/",
+    "start_url": "https://j-rod-mech.github.io/Lab8_Starter/",
     "display": "minimal-ui",
     "background_color": "black",
     "theme_color": "green",
