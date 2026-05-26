@@ -3,7 +3,7 @@
     "short_name": "Jason",
     "description": "mm mm it is time to get thankful",
     "start_url": "./",
-    "display": "minimal-ui",
+    "display": "standalone",
     "background_color": "black",
     "theme_color": "green",
     "icons": [
